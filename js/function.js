@@ -60,6 +60,8 @@ function translate() {
             // elem.style.display = 'none';
         }
     });
+
+
 }
 
 translate();
